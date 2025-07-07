@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>양원우</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <h1>양원우의 소개</h1>
+    <tr>
+        좋아하는거: 게임
+    </tr>
+    <p></p>
+    <tr>
+        좋아하는 음식: 면요리
+    </tr>
+    <p></p>
+    <tr>
+        취미: 딱히 없음
+    </tr>
+    <p></p>
+</body>
+</html>
